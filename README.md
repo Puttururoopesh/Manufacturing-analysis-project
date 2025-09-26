@@ -75,5 +75,5 @@ If you liked this project or have suggestions, feel free to connect with me on [
 ---
 # 👨‍💻 Author
 **Putturu Roopesh**  
-_Data Analyst | Excel,Sql,Power BI,Tableau(Dashboard)**_  
+_Data Analyst | Excel,Sql,Python,Power BI,Tableau(Dashboard)**_  
 
