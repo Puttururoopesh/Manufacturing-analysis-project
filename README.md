@@ -1,6 +1,8 @@
 
 # 📊 Manufacturing Analysis Dashboard
+## 🖼️ Dashboard Snapshot
 
+![Dashboard Screenshot](https://ik.imagekit.io/3uu4zni2o/manufacturing%20pic.jpg?updatedAt=1758897433777)
 ## 📌 Project Overview
 This project analyzes **manufacturing performance** by tracking production quantity, rejection trends, and wastage percentages across employees, machines, and departments.  
 The goal is to provide actionable insights that help management **detect inefficiencies, reduce wastage, and make data-driven decisions**.
